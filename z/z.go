@@ -1,0 +1,4 @@
+package z
+
+func Z() {
+}
